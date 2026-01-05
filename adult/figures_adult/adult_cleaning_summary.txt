@@ -1,0 +1,4 @@
+Rows raw: 48842
+Rows after dropna: 45175
+Rows removed due to unknowns: 3620
+Exact duplicate rows removed: 47
